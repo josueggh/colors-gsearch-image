@@ -1,0 +1,26 @@
+{
+  "name": "dominant-color-gsearch-image",
+  "version": "1.0.0",
+  "description": "Get the dominant color from a Google Search Image query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josueggh/dominant-color-gsearch-image.git"
+  },
+  "author": "Josue G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josueggh/dominant-color-gsearch-image/issues"
+  },
+  "homepage": "https://github.com/josueggh/dominant-color-gsearch-image#readme",
+  "dependencies": {
+    "colorthief": "^2.3.0",
+    "fs": "0.0.1-security",
+    "images-scraper": "^5.0.7",
+    "merge-img": "^2.1.3",
+    "request": "^2.88.2"
+  }
+}
