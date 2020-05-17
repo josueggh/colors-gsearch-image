@@ -13,9 +13,9 @@
   "author": "Josue G",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josueggh/dominant-color-gsearch-image/issues"
+    "url": "https://github.com/josueggh/colors-gsearch-image/issues"
   },
-  "homepage": "https://github.com/josueggh/dominant-color-gsearch-image#readme",
+  "homepage": "https://github.com/josueggh/colors-gsearch-image#readme",
   "dependencies": {
     "colorthief": "^2.3.0",
     "fs": "0.0.1-security",
